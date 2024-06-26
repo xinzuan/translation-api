@@ -30,4 +30,4 @@ or you can try it locally (without fastapi) by just run below command:
 ## Supported language
 Note that **traditional chinese** is not supported in current api
 
-You can change the supported languages in **constant.py**
+You can check the supported languages in **constant.py**
